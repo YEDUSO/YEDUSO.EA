@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YEDUSO.EA", "YEDUSO.EA\YEDUSO.EA.csproj", "{9536F169-8268-4D46-A385-656D1A33797D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YEDUSO.EA.Tests", "YEDUSO.EA.Tests\YEDUSO.EA.Tests.csproj", "{EE24A38C-8FE6-40B9-BF72-2B35085BCA48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9536F169-8268-4D46-A385-656D1A33797D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9536F169-8268-4D46-A385-656D1A33797D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9536F169-8268-4D46-A385-656D1A33797D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9536F169-8268-4D46-A385-656D1A33797D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE24A38C-8FE6-40B9-BF72-2B35085BCA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE24A38C-8FE6-40B9-BF72-2B35085BCA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE24A38C-8FE6-40B9-BF72-2B35085BCA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE24A38C-8FE6-40B9-BF72-2B35085BCA48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8F483DB-4E6A-4929-B872-4AACE27B57D1}
+	EndGlobalSection
+EndGlobal
