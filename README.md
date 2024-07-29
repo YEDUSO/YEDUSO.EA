@@ -36,7 +36,7 @@ public class Recipient : IHandle<CustomMessage>
 
 To send the event, the sender would need to have the EA from the constructor and just call the necessary publish function.
 ```
-using YEDUSO.EA;
+using YellowDuckSoftware.EA;
 
 public class Sender
 {
@@ -83,7 +83,7 @@ public class Recipient : IInquire<CustomMessage>
 ```
 And the sender can respond to the result of the message accordingly.
 ```
-using YEDUSO.EA;
+using YellowDuckSoftware.EA;
 
 public class Sender
 {

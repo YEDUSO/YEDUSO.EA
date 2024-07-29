@@ -1,4 +1,4 @@
-﻿namespace YEDUSO.EA
+﻿namespace YellowDuckSoftware.EA
 {
     public interface IHandle : IEvent
     {

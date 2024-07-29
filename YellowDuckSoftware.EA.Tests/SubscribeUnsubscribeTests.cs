@@ -1,5 +1,5 @@
 ﻿using Xunit;
-using YEDUSO.EA;
+using YellowDuckSoftware.EA;
 
 namespace YelllowDuckSoftware.EA.Tests
 {

@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\YEDUSO.EA\YEDUSO.EA.csproj" />
+    <ProjectReference Include="..\YellowDuckSoftware.EA\YellowDuckSoftware.EA.csproj" />
   </ItemGroup>
 
 </Project>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace YEDUSO.EA
+namespace YellowDuckSoftware.EA
 {
     public interface IEventAggregator
     {

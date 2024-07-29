@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace YEDUSO.EA
+namespace YellowDuckSoftware.EA
 {
     public class EventAggregatorIncorrectedRestrictedTypeException : Exception
     {

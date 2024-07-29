@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace YEDUSO.EA
+namespace YellowDuckSoftware.EA
 {
     public class Handler
     {

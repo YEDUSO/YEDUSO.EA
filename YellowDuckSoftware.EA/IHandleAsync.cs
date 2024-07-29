@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace YEDUSO.EA
+namespace YellowDuckSoftware.EA
 {
     public interface IHandleAsync : IEvent
     {
